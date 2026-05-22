@@ -1,43 +1,49 @@
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+ <img src="https://trophy.ryglcloud.net/?username=ZafranYusof&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Zafran Yusof's GitHub Trophies" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />&nbsp;&nbsp;
+ <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+ <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
+ <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+ <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+</p>
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/gif/neon-city.gif" width="100%" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FF2D95&center=true&vCenter=true&repeat=true&width=500&height=50&lines=%E2%9A%A1+Zafran+Yusof;Full-stack+%7C+AI%2FML+%7C+Mobile;Building+the+future+with+code)](https://git.io/typing-svg)
-
-</div>
-
-## 💻 Tech Stack
-
-<div align="center">
-
-<img src="./assets/tech-scroll.gif" width="100%" />
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=ZafranYusof&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ZafranYusof&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZafranYusof&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=ZafranYusof&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://komarev.com/ghpvc/?username=ZafranYusof&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1b4e,100:ff2d95&height=100&section=footer)
-
+ <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
