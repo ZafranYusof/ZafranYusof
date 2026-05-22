@@ -9,12 +9,8 @@
 ## 💻 Tech Stack
 
 <div align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,flutter,python,mongodb,express,vite,electron,firebase,docker,git,tailwind,pytorch,tensorflow&perline=7" /></a>
-</div>
 
-<div align="center">
-
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+<img src="./assets/tech-scroll.gif" width="100%" />
 
 </div>
 
