@@ -1,12 +1,12 @@
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
-## 📊 GitHub Stats & Trophies
+## GitHub Stats & Trophies
 <p align="center">
  <img src="https://trophy.ryglcloud.net/?username=ZafranYusof&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Zafran Yusof's GitHub Trophies" />
 </p>
 
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
